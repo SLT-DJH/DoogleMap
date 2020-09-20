@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="custom_marker_image">50dp</dimen>
+    <dimen name="custom_marker_image_padding">3dp</dimen>
+
+
+</resources>

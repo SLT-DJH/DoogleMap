@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "937836351405",
+    "firebase_url": "https://dooglemap.firebaseio.com",
+    "project_id": "dooglemap",
+    "storage_bucket": "dooglemap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937836351405:android:0dd11206438f4891e7db24",
+        "android_client_info": {
+          "package_name": "com.example.dooglemap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937836351405-7fvrb30aa4425e2s9b145ld1b8i5al29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHPd1xgSRYz_QQezK-4rJHMLXPmT_n4Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937836351405-7fvrb30aa4425e2s9b145ld1b8i5al29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
